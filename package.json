@@ -1,7 +1,7 @@
 {
-  "name": "ww415226370-cli-dev",
+  "name": "wenwu-cli-dev",
   "version": "1.0.0",
-  "description": "ww415226370 cli dev",
+  "description": "wenwu cli dev",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
