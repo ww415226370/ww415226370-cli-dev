@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "ww415226370",
   "license": "ISC",
   "devDependencies": {
     "lerna": "^7.0.2"
