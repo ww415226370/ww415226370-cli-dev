@@ -1,0 +1,19 @@
+{
+  "name": "imooc-cli-dev",
+  "version": "1.0.0",
+  "description": "imooc cli dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^7.0.2"
+  },
+  "workspaces": [
+    "packages/core",
+    "packages/utils"
+  ]
+}
