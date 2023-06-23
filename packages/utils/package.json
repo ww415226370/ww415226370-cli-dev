@@ -1,6 +1,6 @@
 {
   "name": "@ww415226370-cli-dev/utils",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "ww415226370-cli-dev utils",
   "author": "ww415226370 <ww415226370@outlook.com>",
   "homepage": "",
@@ -19,5 +19,6 @@
   },
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
-  }
+  },
+  "gitHead": "906ae97019367a54683a5d17db34698db8aed10d"
 }
