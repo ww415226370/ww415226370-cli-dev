@@ -1,5 +1,6 @@
-47 error Error: Command failed: git push --follow-tags --no-verify --atomic origin main
-47 error fatal: unable to access 'https://github.com/ww415226370/ww415226370-cli-dev.git/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream
-47 error
-47 error     at makeError (/Users/wenwu/.npm-global/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
-47 error     at /Users/wenwu/.npm-global/lib/node_modules/lerna/node_modules/execa/index.js:278:16
+42 error Error: Command failed: git tag v1.0.1 -m v1.0.1
+42 error fatal: tag 'v1.0.1' already exists
+42 error
+42 error     at makeError (/Users/wenwu/.npm-global/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+42 error     at /Users/wenwu/.npm-global/lib/node_modules/lerna/node_modules/execa/index.js:278:16
+42 error     at processTicksAndRejections (node:internal/process/task_queues:96:5)
