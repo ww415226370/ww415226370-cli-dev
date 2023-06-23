@@ -1,5 +1,5 @@
 {
-  "name": "ww415226370-cli-dev/core",
+  "name": "@ww415226370-cli-dev/core",
   "version": "1.0.2",
   "description": "ww415226370-cli-dev core",
   "author": "ww415226370 <ww415226370@outlook.com>",
@@ -21,6 +21,5 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "ww415226370-cli-dev/utils": "^1.0.2"
   }
 }
