@@ -1,6 +1,6 @@
 {
   "name": "@ww415226370-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ww415226370-cli-dev core",
   "author": "ww415226370 <ww415226370@outlook.com>",
   "homepage": "",
@@ -19,7 +19,5 @@
   },
   "scripts": {
     "test": "node ./__tests__/core.test.js"
-  },
-  "dependencies": {
   }
 }
